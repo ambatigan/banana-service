@@ -4,6 +4,7 @@ This is a *sample microservice* application built with [Spring Boot](http://proj
 This service demonstrates deployment with [mu](http://getmu.io)
 
 Review the steps below to learn how it was created and how to create your own:
+#Comment by Ganga Ambati --- The cfn template error needs to be fixed....for the asia-pacific region...so changing the region to the north america virgia for the timebeing...
 
 # :banana: Step 1: Set up your environment
 
