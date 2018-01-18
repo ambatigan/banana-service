@@ -6,6 +6,7 @@ This service demonstrates deployment with [mu](http://getmu.io)
 Review the steps below to learn how it was created and how to create your own:
 #Comment by Ganga Ambati --- The cfn template error needs to be fixed....for the asia-pacific region...so changing the region to the north america virgia for the timebeing...
 #Comment by Ganga Ambati -- to work on the source and all
+# Another test commit
 # :banana: Step 1: Set up your environment
 
 You will need to install the [Spring Boot CLI](http://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/#getting-started-installing-the-cli) to get started.  The recommended way is to use [SDKMAN!](http://sdkman.io/index.html).  First install SDKMAN! with:
